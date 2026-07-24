@@ -1,4 +1,4 @@
-**Placement Prediction using Machine Learning**
+**Placement Prediction using Machine Learning **
 
 This project is a Machine Learning based system that predicts whether a student will get placed based on academic and personal factors.
 The goal of this project is to understand the complete ML workflow from data preprocessing to model training and prediction.
