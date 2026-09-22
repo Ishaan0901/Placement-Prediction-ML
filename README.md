@@ -12,10 +12,13 @@ Seaborn
 Scikit-learn
 Jupyter Notebook
 
+
 **Project Files**
 placement.csv – original dataset
 placement_prediction.ipynb – notebook (EDA + model training)
 model.pkl – trained machine learning model
+
+
 
 **How to Run**
 
