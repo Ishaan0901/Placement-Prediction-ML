@@ -7,10 +7,10 @@ The goal of this project is to understand the complete ML workflow from data pre
 Python
 Pandas
 NumPy
-Matplotlib
 Seaborn
 Scikit-learn
 Jupyter Notebook
+Matplotlib
 
 
 **Project Files**
